@@ -1,2 +1,5 @@
-http://example.com/2022/02/25/hello-world/
-http://example.com/
+https://bilibili.com/link/index.html
+https://bilibili.com/categories/index.html
+https://bilibili.com/tags/index.html
+https://bilibili.com/2022/02/25/hello-world/
+https://bilibili.com/
