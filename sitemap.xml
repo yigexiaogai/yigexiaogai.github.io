@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bilibili.com/link/index.html</loc>
+    <loc>https://yigexiaogai.github.io/project/2022/03/28/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2022-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yigexiaogai.github.io/project/link/index.html</loc>
     
     <lastmod>2022-03-28</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://bilibili.com/categories/index.html</loc>
+    <loc>https://yigexiaogai.github.io/project/categories/index.html</loc>
     
     <lastmod>2022-03-28</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://bilibili.com/tags/index.html</loc>
+    <loc>https://yigexiaogai.github.io/project/tags/index.html</loc>
     
     <lastmod>2022-03-26</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://bilibili.com/2022/02/25/hello-world/</loc>
+    <loc>https://yigexiaogai.github.io/project/2022/02/25/hello-world/</loc>
     
     <lastmod>2022-02-25</lastmod>
     
@@ -39,13 +48,27 @@
   
 
   <url>
-    <loc>https://bilibili.com/</loc>
-    <lastmod>2022-03-28</lastmod>
+    <loc>https://yigexiaogai.github.io/project</loc>
+    <lastmod>2022-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://yigexiaogai.github.io/project/tags/hexo%E7%9B%B8%E5%85%B3/</loc>
+    <lastmod>2022-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://yigexiaogai.github.io/project/categories/hexo/</loc>
+    <lastmod>2022-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
