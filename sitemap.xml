@@ -137,13 +137,6 @@
 
   
   <url>
-    <loc>https://yigexiaogai.github.io/tags/hexo%E7%9B%B8%E5%85%B3/</loc>
-    <lastmod>2022-06-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://yigexiaogai.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
     <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -157,17 +150,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://yigexiaogai.github.io/tags/hexo%E7%9B%B8%E5%85%B3/</loc>
+    <lastmod>2022-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://yigexiaogai.github.io/categories/hexo/</loc>
+    <loc>https://yigexiaogai.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</loc>
     <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yigexiaogai.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</loc>
+    <loc>https://yigexiaogai.github.io/categories/hexo/</loc>
     <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
