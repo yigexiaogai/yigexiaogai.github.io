@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yigexiaogai.github.io/2022/04/23/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%EF%BC%88%E4%BA%94%EF%BC%89/</loc>
+    
+    <lastmod>2022-06-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yigexiaogai.github.io/2022/03/28/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2022-05-19</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://yigexiaogai.github.io/2022/04/26/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%EF%BC%88%E4%BA%94%C2%B7%E7%BB%AD%E4%B8%80%EF%BC%89/</loc>
     
     <lastmod>2022-05-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yigexiaogai.github.io/2022/04/23/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%EF%BC%88%E4%BA%94%EF%BC%89/</loc>
-    
-    <lastmod>2022-04-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
