@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@neilsustc/markdown-it-katex": "^1.0.0",
-    "hexo": "^6.0.0",
+    "hexo": "^6.3.0",
     "hexo-asset-image": "github:7ym0n/hexo-asset-image",
     "hexo-browsersync": "^0.3.0",
     "hexo-deployer-git": "^3.0.0",
