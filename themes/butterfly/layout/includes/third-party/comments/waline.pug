@@ -1,0 +1,37 @@
+- const { serverURL, visitor, option } = theme.waline
+
+script.
+  function loadWaline () {
+    function initWaline () {
+      const waline = new Waline(Object.assign({
+        el: '#waline-wrap',
+        serverURL: '!{serverURL}',
+        // 设置 emoji
+        emoji: ['https://valine-emoji.bili33.top/bilibiliHotKey',
+                'https://valine-emoji.bili33.top/bilibilitv',
+                'https://valine-emoji.bili33.top/weibo',
+                'https://valine-emoji.bili33.top/Yurui-Neko',
+                'https://valine-emoji.bili33.top/alu',
+                ],
+        // 设置占位标志
+        placeholder: '#{theme.waline.placeholder}',
+        path: location.pathname,
+        visitor: !{visitor},
+        dark: 'html[data-theme="dark"]'
+      }, !{JSON.stringify(option)}))
+    }
+
+    if (typeof Waline === 'function') initWaline()
+    else getScript('!{url_for(theme.CDN.waline)}').then(initWaline)
+  }
+
+  if ('!{theme.comments.use[0]}' === 'Waline' || !!{theme.comments.lazyload}) {
+    if (!{theme.comments.lazyload}) btf.loadComment(document.getElementById('waline-wrap'),loadWaline)
+    else setTimeout(loadWaline, 0)
+  } else {
+    function loadOtherComment () {
+      loadWaline()
+    }
+  }
+  
+
