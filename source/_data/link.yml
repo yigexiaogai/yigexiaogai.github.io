@@ -1,0 +1,11 @@
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Bilibil
+      link: https://www.bilibili.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: Weibo
+      link: https://www.weibo.com/
+      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      descr: 中国最大社交分享平臺
