@@ -19,4 +19,8 @@ cover: https://s2.loli.net/2023/01/27/476KjUiwNEzkVqb.png
 ## 结合IDEA
 主流的idea都支持git，因为作者本人用VS code比较多，所以在这里以Code为实例。
 
-test
+code在侧边栏中有一个路线的符号:
+
+{%asset_img 1.png%}
+
+点击进入后，就会发现code提示了用户当前有的分支，当前文件的状态，当前可以执行的操作。
