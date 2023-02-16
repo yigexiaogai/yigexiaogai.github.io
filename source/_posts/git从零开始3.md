@@ -17,3 +17,6 @@ cover: https://s2.loli.net/2023/01/27/476KjUiwNEzkVqb.png
 [尚硅谷git教程](https://www.bilibili.com/video/BV1vy4y1s7k6?p=24&vd_source=3d73f51879206e4a4df14c2d1fb027e7)
 
 ## 结合IDEA
+主流的idea都支持git，因为作者本人用VS code比较多，所以在这里以Code为实例。
+
+test
