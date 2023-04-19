@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yigexiaogai.github.io/about/index.html</loc>
+    
+    <lastmod>2023-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yigexiaogai.github.io/2023/03/23/%E5%AD%A6%E4%B9%A0%E5%B0%A4%E5%85%8B%E9%87%8C%E9%87%8C%E7%9A%84%E7%AC%AC1%E5%A4%A9/</loc>
     
     <lastmod>2023-04-16</lastmod>
