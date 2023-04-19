@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yigexiaogai.github.io/2022/06/18/%E5%B0%8F%E8%AF%A5%E7%A2%8E%E7%A2%8E%E5%BF%B5220618/</loc>
+    
+    <lastmod>2023-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yigexiaogai.github.io/about/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
@@ -101,6 +110,15 @@
   </url>
   
   <url>
+    <loc>https://yigexiaogai.github.io/link/index.html</loc>
+    
+    <lastmod>2023-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yigexiaogai.github.io/album/index.html</loc>
     
     <lastmod>2023-01-21</lastmod>
@@ -111,15 +129,6 @@
   
   <url>
     <loc>https://yigexiaogai.github.io/tags/index.html</loc>
-    
-    <lastmod>2023-01-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yigexiaogai.github.io/link/index.html</loc>
     
     <lastmod>2023-01-21</lastmod>
     
@@ -228,15 +237,6 @@
   
   <url>
     <loc>https://yigexiaogai.github.io/2022/06/09/%E5%B0%8F%E8%AF%A5%E7%A2%8E%E7%A2%8E%E5%BF%B5220609/</loc>
-    
-    <lastmod>2023-01-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yigexiaogai.github.io/2022/06/18/%E5%B0%8F%E8%AF%A5%E7%A2%8E%E7%A2%8E%E5%BF%B5220618/</loc>
     
     <lastmod>2023-01-21</lastmod>
     
@@ -389,6 +389,13 @@
   </url>
   
   <url>
+    <loc>https://yigexiaogai.github.io/tags/hexo%E7%9B%B8%E5%85%B3/</loc>
+    <lastmod>2023-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yigexiaogai.github.io/tags/%E8%AF%AD%E8%A8%80/</loc>
     <lastmod>2023-04-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -397,13 +404,6 @@
   
   <url>
     <loc>https://yigexiaogai.github.io/tags/%E6%97%A5%E8%AF%AD/</loc>
-    <lastmod>2023-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yigexiaogai.github.io/tags/hexo%E7%9B%B8%E5%85%B3/</loc>
     <lastmod>2023-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -468,14 +468,14 @@
   </url>
   
   <url>
-    <loc>https://yigexiaogai.github.io/categories/%E6%97%A5%E8%AF%AD/</loc>
+    <loc>https://yigexiaogai.github.io/categories/hexo/</loc>
     <lastmod>2023-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yigexiaogai.github.io/categories/hexo/</loc>
+    <loc>https://yigexiaogai.github.io/categories/%E6%97%A5%E8%AF%AD/</loc>
     <lastmod>2023-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
