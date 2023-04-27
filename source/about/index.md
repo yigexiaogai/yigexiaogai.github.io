@@ -3,8 +3,9 @@ title: 关于我自己
 date: 2023-04-19 19:13:38
 ---
 
-# 我是谁？
->面对这个问题陷入了深深的思考。
+# About this blog
+
+**这个博客是小该同学平时的学习笔记与生活记录，大部分的时候你会看见一个努力上进的学生，但偶尔你会看见一个发牢骚的小孩儿。每一个来博客的人，欢迎你！**
 
 ---
 
@@ -34,12 +35,11 @@ Twitter: 一个小该
 ```
 
 ## Tech Stack
-怎么说呢，废物一个，啥都回点，啥都不会。
-会点<font style="background: red">**C++**</font>
+怎么说呢，废物一个，啥都会点，啥都不会。
+>会点<font style="background: red">**C++**</font>
 会点<font style="background: yellow">**Python**</font>
 会点<font style="background: orange">**剪辑**</font>
 会点<font style="background: CYAN">**围棋**</font>
 会点<font style="background: magenta">**尤克里里**</font>
 
-## About this blog
-没想好，想好再写。下次一定。
+
