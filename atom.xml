@@ -6,7 +6,7 @@
   <link href="https://yigexiaogai.github.io/atom.xml" rel="self"/>
   
   <link href="https://yigexiaogai.github.io/"/>
-  <updated>2024-02-09T16:06:36.071Z</updated>
+  <updated>2024-02-12T07:29:06.194Z</updated>
   <id>https://yigexiaogai.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小该碎碎念240212</title>
+    <link href="https://yigexiaogai.github.io/2024/02/12/%E5%B0%8F%E8%AF%A5%E7%A2%8E%E7%A2%8E%E5%BF%B5240212/"/>
+    <id>https://yigexiaogai.github.io/2024/02/12/%E5%B0%8F%E8%AF%A5%E7%A2%8E%E7%A2%8E%E5%BF%B5240212/</id>
+    <published>2024-02-12T05:05:21.000Z</published>
+    <updated>2024-02-12T07:29:06.194Z</updated>
+    
+    <content type="html"><![CDATA[<h1>回国的第二天</h1><p>今天是我回中国的第二天，我居然有一种陌生的感觉。这种陌生的感觉不是因为杭州产生了多少变化，而是我自己的内部产生了变化，简单来说，我好像真的在生活习惯上向日本靠拢了。</p><p>杭州的空气和环境在国内应该是算不错的了，至少没有北方那么重的雾霾，然而，天空还是蒙着一层灰色。日本的天空，在大多数情况下，确实都是蓝的和纯净的琥珀一样。包括空气，日本的空气确实沁人心脾，杭州的空气，在吸入肺部钻入呼吸管的那一刻，是会有一些沉重的摩擦感。我真切的希望这是我的心理作用，但是似乎并不完全是，好的是，商场内没有什么区别，依旧是我喜欢的人工芳香，国内外都一样。</p><p>刚回到萧山机场的时候，还遭遇了一段有趣的事。我的姑姑来接机，但是萧山机场太大了，我们找不到说好碰头的地方。当时已经是凌晨1点多，我抱着恭敬的语气去询问一个保安：“您好，请问电梯二号厅在哪里，您知道吗？”不过收到了很不耐烦的回答：“你去问服务台去。”但您这也没告诉我服务台在哪里啊……于是我找了半天才找到服务台。</p><p>说来也巧，第一天去日本的时候，同样的，我也找不到我想要去的地方，于是同样的，我找到一位日本的保安叔叔，用着蹩脚的日语问他X地该怎么去。然后随之震惊我的是，他直接领着我到了我要去的地方，那地方不算近，最后他挥着手和我说拜拜，还亲切地说“接下来的路上小心”。我……</p><p>大概因为我是外国人的关系吧。要是我是一个英国人，中国的保安应该也会挺热情的……对吧……我真的不想表现成我是亲日派，只不过现在的网络环境，我这样的描述应该会被打成亲日，所以我是不是现在应该说点日本的坏处？</p><p>但我不。</p><h1>如何获得永住？</h1><p>接下来是获得永住的笔记。图方便就把这个内容和今天的日记放在一起了。<br>在日本申请永住首先有一个必要条件，就是年收入要在300W日元以上，不然是没有申请权力的。<br>其次，如果是日本留学生的话，走的是《高度人才》的特别政策，该政策通过算分制度，70分合格，也就是说，到达70分才有申请资格。其次，在70分的情况下，要在日本居住三年，这三年是不包括学校留学情况的。如果年薪在400万元及以上，就能拿到80分，在这种情况下，只需要居住一年即可申请。具体的积分计算可以参看下面的文件：<a href="https://github.com/yigexiaogai/yigexiaogai.github.io/blob/hexo/source/_posts/%E5%B0%8F%E8%AF%A5%E7%A2%8E%E7%A2%8E%E5%BF%B5240212/930001657.pdf">算分说明（github）</a></p><img src="/2024/02/12/%E5%B0%8F%E8%AF%A5%E7%A2%8E%E7%A2%8E%E5%BF%B5240212/image-1.png" class title="永住条件">]]></content>
+    
+    
+    <summary type="html">回国的体验和获得永住权的笔记</summary>
+    
+    
+    
+    <category term="日记" scheme="https://yigexiaogai.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="小该碎碎念" scheme="https://yigexiaogai.github.io/tags/%E5%B0%8F%E8%AF%A5%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
   
   <entry>
     <title>小该碎碎念240210</title>
@@ -522,33 +543,6 @@
 &lt;p&gt;上一节我们接触了 &lt;strong&gt;版本穿梭、分支和远端推送&lt;/strong&gt; ，这说明我们已经能够在本地和远端管理项目了，接下来我们就需要在团队中合作了。&lt;/p&gt;
 &lt;h2 id=&quot;团队协作&quot;&gt;团队协作&lt;/h2&gt;
 &lt;p&gt;团队协作其实是</summary>
-      
-    
-    
-    
-    <category term="git" scheme="https://yigexiaogai.github.io/categories/git/"/>
-    
-    
-    <category term="git" scheme="https://yigexiaogai.github.io/tags/git/"/>
-    
-    <category term="学习笔记" scheme="https://yigexiaogai.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>git从零开始2</title>
-    <link href="https://yigexiaogai.github.io/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/"/>
-    <id>https://yigexiaogai.github.io/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/</id>
-    <published>2023-02-04T16:08:39.000Z</published>
-    <updated>2023-05-11T08:46:22.601Z</updated>
-    
-    <content type="html"><![CDATA[<h1>版本穿梭、分支和远端推送</h1><p>在上一节中<a href="https://yigexiaogai.github.io/2023/01/28/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B1/">上一篇博客</a>，我们讲解了本地项目文件在git中的提交过程和状态查询的方法，这一小节，我们将讲解版本穿梭、分支和远端推送。</p><h2 id="版本穿梭">版本穿梭</h2><p>我们知道，git是一个版本管理的工具，那如何进行版本的管理呢？<br>在上一节中，我们提到，可以使用</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git reflog</span><br><span class="line">git log</span><br></pre></td></tr></table></figure><p>两个指令来查看版本的信息。我们可以从中获得版本的版本号。例如下图，版本号就是“b9f048a”（和第一节不一样了，因为我为了写博客重新建了一个项目），我们先修改一下文件，搞一个第二个版本，以便进行实验。<br>我们在hello.txt里面第一行末尾加上五个1.</p><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/1.png" class><p>然后我们重新提交，此时再用git reflog发现，存在了两个版本，版本号分别为“b9f048a”和“f892d81”</p><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/2.png" class><p>如果这时候老板觉得，不要这五个1，还是第一个版本好，我们就需要使用以下这个指令，回到第一个版本：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git reset --hard b9f048a</span><br></pre></td></tr></table></figure><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/3.png" class><p>我们发现，版本已经回到第一个版本了，此时如果你回去看hello文件里的内容，五个1已经没有了！ <strong>需要注意，不是说回到第一个版本，第二个版本就没了！他还在呢！</strong><br><strong>实质上我们可以看到，是名为HEAD的指针指向了第一个版本号，因此版本才会回去了</strong></p><p>现在我们可以来看看.git文件夹中的文件了，里面就有一个叫“HEAD”的文件，我们使用记事本打开，发现内容是：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ref: refs/heads/master</span><br></pre></td></tr></table></figure><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/4.png" class><p><strong>意思是说，这个HEAD指针所在的位置就是master分支</strong></p><p>那我们能知道这个master分支是什么吗？ <strong>可以！</strong> 在.git文件夹中的这个路径下就有master文件，同样记事本打开查看，wow，恍然大悟了对吧！ <strong>master指向的就是这个版本号！</strong></p><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/5.png" class><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/6.png" class><p>所以总结一下， <strong>git中版本管理的底层其实是由两个指针决定的</strong> ：<br>head指针-&gt;master（分支）指针-&gt;版本</p><p>是不是一下就清楚了！<br>另外，如果要再回到第二个版本，也是执行同一个指令，只要把版本号改成第二个版本的就行了。</p><h2 id="分支-branch">分支(branch)</h2><p>分支是一个相当重要的功能（机制），例如在企业里，我们可以使用分支来管理一个软件的各个版本，例如测试版、正式版、公司内部版、上市版……对于个人开发，我们可以使用分支对一个项目中的文件内容进行分类，或者并行开发，我的博客为了在两台电脑上同步更新，就使用了分支的功能。简单来说，分支可以是copy的关系，也可以是父子关系，更可以是分而治之的思维……</p><h3 id="分支的好处">分支的好处</h3><p>分支机制由两个好处：</p><ol><li>分支可以提高开发效率，促进并行开发</li><li>一个分支上项目出现问题，不会影响其他分支的内容，独立性。</li></ol><h3 id="查看-创建-切换-分支">查看/创建/切换 分支</h3><p>查看分支的指令比较简单：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git branch -v</span><br></pre></td></tr></table></figure><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/7.png" class><p>创建分支的指令很简单：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git branch 分支名</span><br></pre></td></tr></table></figure><p>例如这里，我创建了一个名为test的分支。使用查看的指令，就可以看到所有的分支：</p><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/8.png" class><p>切换的指令也很简单：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git checkout 分支名</span><br></pre></td></tr></table></figure><p>例如这里，我们切换到test分支，此时后面括号后的分支名提示我们，已经切换到test分支了。</p><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/9.png" class><p>但是以下要注意的是，我们可以看一下test分支里面有什么。其实，创建分支默认就是 <strong>拷贝master分支</strong> ，所以创建初始，test里面也有一个hello文件，且内容完全一样。但是，我们可以开始尝试修改test分支了。例如，我们这里在hello文件中的第一行末尾写上5个a.然后提交。</p><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/10.png" class><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/11.png" class><p>此时，test分支就已经和master分支不一样了, <strong>即使在windows的文件夹中，文件内容也有5个a了</strong>，他们俩就像双胞胎。但如果我们再切换回到master分支，文件内容会是什么呢，其实也很好猜，5个a会消失！所以，我们只要切换版本，直观上，明明你没有对文件夹做什么操作，里面的文件却能够改变，很神奇吧！</p><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/12.png" class><p><strong>要说的是，底层上，其实只是指针发生了改变</strong><br>当我们创建并切换到test分支时，head指针就从master改变指向指到了test。<br><strong>head-&gt;test-&gt;版本</strong></p><h3 id="合并分支">合并分支</h3><p>企业中，我们可能创建一个分支的目的，是为了给一个软件开发新的模块或者插件等等，当我们开发完之后，可能就要把分支和主分支合并了，从而给软件添加新的内容，这就是合并分支的作用。</p><p>命令非常的简单：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git merge 分支名 //把指定的分支合并到当前的分支上</span><br></pre></td></tr></table></figure><p><strong>这里有一点要注意，注释的意思有两点信息：</strong></p><ol><li>“分支名”是指定的分支</li><li><strong>当前分支会添加新的内容，但“指定的分支”自身的内容并不会改变</strong></li></ol><p>但是，合并分支存在两种情况，正常合并和冲突合并。</p><h4 id="正常合并">正常合并</h4><p>正常合并其实没有什么好说的，命令就是上面提到的“merge”。我们来尝试一下：</p><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/13.png" class><p>再次查看一下hello中的文件内容，会发现master中的hello也有了5个a</p><h4 id="冲突合并">冲突合并</h4><p>冲突合并实际才是最为常见的情况，怎么样会发生冲突呢？就是我对两个分支中的“ <strong>同一个地方</strong> ”做出不同的修改，此时要合并，git就会搞不懂了，因为它不知道要保留哪一个作为最终版本。在企业中，A和B对代码有不同的修改，此时就会产生这样的冲突，接下来我们试验一下。</p><p><strong>要注意的是，不同版本的git对“同一个地方”的概念不同，低版本的git认为同一个文件时同一个地方，但是高版本的git会认为文件中同一个代码行才是同一个地方。</strong></p><p>我们先在master分支中，文件第一行最后末尾加上“master”，再在test分支文件第一行末尾加上“test”，（注意改完都要重新提交），然后合并。<br>此时发现，git提示冲突！而且子啊括号中，变成了 <strong>（master|merging）</strong>，这种情况要怎么解决呢？</p><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/15.png" class><p>我们可以此时打开hello文件看看。</p><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/16.png" class><p>其实git就提示你，冲突的地方在哪里了，我们只需要手动删除和保留内容就可以了。<br>例如我只想保留“master”，我就只要删掉提示符号和“test”即可。然后重新提交。大功告成。</p><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/17.png" class><p>接下来我们测试一下，如果不是修改同一行会怎么样。</p><p>我们先在master分支中，文件第一行最后末尾加上“master”，再在test分支文件最后行末尾加上“test”，（注意改完都要重新提交），然后合并。<br>我发现，在我这里，仍然会出现冲突，且提示的文件变成了这样：</p><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/18.png" class><p>但我的git应该是最新的版本，所以上面的说法可能存在不对的地方，git对于同一个位置的定义，就是一个文件。</p><h2 id="链接远端">链接远端</h2><h3 id="创建远端库">创建远端库</h3><p>鉴于本博客的主要内容是git，在这里不讲述如何使用github。<br>但在本地库链接远端库之前，是需要在github（或者别的远端代码托管平台）创建一个远程库，而且建议，库的名字最好和本地库一样，便于记忆。</p><p>在创建了远程库之后，github会提供给我们两个库的链接，一个是http，一个是ssh，我们先用http。<br>接下来，我们来把本地库和远程库链接起来，指令很简单：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git remote add &lt;别名&gt; &lt;链接&gt; //</span><br></pre></td></tr></table></figure><ul><li>这个别名是因为链接比较复杂，所以给链接起个别名，这里建议也是取库的名字，便于记忆</li></ul><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/19.png" class><p>使用</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git remote -v</span><br></pre></td></tr></table></figure><p>可以查看现在有的链接。<br>欸，你会发现，明明我只链接一个链接，为什么会有两个（一个fetch，一个push）。害，一个拉取一个推送嘛，双向通道咯，不过fetch是包含了clone和pull两个方式的。</p><h3 id="推送">推送</h3><p>推送的指令很简单：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git push &lt;别名&gt; &lt;分支&gt;</span><br></pre></td></tr></table></figure><ul><li>这里要注意，别名就是那个链接，然后git推送的最小单位是分支，所以要加上分支名</li></ul><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/20.png" class><ul><li>这里可能有人会弹出登录界面，这才是正常的。因为我在github上设置了ssh免密，相当于github已经认识我这台电脑了，所以可以直接传上去。</li></ul><p>现在，远程库就有我们的文件啦。</p><img src="/2023/02/05/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B2/21.png" class><h3 id="拉取">拉取</h3><p>如果远程库中的内容有改动，我们就要拉取新的内容到本地库，操作时类似的：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git pull &lt;别名&gt; &lt;分支&gt;</span><br></pre></td></tr></table></figure><h3 id="克隆">克隆</h3><p>我相信克隆应该时大家最常见的操作了吧，毕竟，白嫖最香了。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone &lt;远程库地址&gt;</span><br></pre></td></tr></table></figure><p>git clone 并不需要登录github，且会做三件事：</p><ol><li>拉取代码</li><li>初始化本地仓库</li><li>创建别名</li></ol><h2 id="总结-3">总结</h2><p>这一节我们讲了版本穿梭，分支，和远程仓库的连接，其实这已经包含了大部分的内容了，接下来，我们会接触到团队协作，还有就是使用IDEA集成git，挥这个之后，我们甚至不用打命令了。大家下次见！<br><img src="https://s2.loli.net/2023/01/28/rgB7yFv8cdwG9OT.jpg" alt></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;版本穿梭、分支和远端推送&lt;/h1&gt;
-&lt;p&gt;在上一节中&lt;a href=&quot;https://yigexiaogai.github.io/2023/01/28/git%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B1/&quot;&gt;上一篇博客&lt;/a&gt;，我们讲解了本地</summary>
       
     
     
