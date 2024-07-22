@@ -156,39 +156,39 @@ $$
 
 #### 1. 求解公司 \( A \) 的最佳回应函数：
 
-\[
+$$
 \frac{\partial u_A}{\partial q_A} = a - 2bq_A - bq_B - c = 0
-\]
+$$
 
-\[
+$$
 q_A = \frac{a - c - bq_B}{2b}
-\]
+$$
 
 #### 2. 求解公司 \( B \) 的最佳回应函数：
 
-\[
+$$
 \frac{\partial u_B}{\partial q_B} = a - 2bq_B - bq_A - c = 0
-\]
+$$
 
-\[
+$$
 q_B = \frac{a - c - bq_A}{2b}
-\]
+$$
 
 #### 3. 求解纳什均衡：
 
 通过联立上述两个方程，可以求解 \( q_A \) 和 \( q_B \)：
 
-\[
+$$
 q_A = \frac{a - c - b \left( \frac{a - c - bq_A}{2b} \right)}{2b}
-\]
+$$
 
-\[
+$$
 q_A = \frac{a - c}{3b}
-\]
+$$
 
-\[
+$$
 q_B = \frac{a - c}{3b}
-\]
+$$
 
 因此，纳什均衡是 \( q_A = q_B = \frac{a - c}{3b} \)。
 
