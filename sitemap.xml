@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yigexiaogai.github.io/2026/06/29/%E5%B0%8F%E8%AF%A5%E7%A2%8E%E7%A2%8E%E5%BF%B5260629/</loc>
+    <loc>https://yigexiaogai.github.io/2024/09/22/%E5%B0%8F%E8%AF%A5%E7%A2%8E%E7%A2%8E%E5%BF%B5240922/</loc>
     
     <lastmod>2026-06-29</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://yigexiaogai.github.io/2024/09/22/%E5%B0%8F%E8%AF%A5%E7%A2%8E%E7%A2%8E%E5%BF%B5240922/</loc>
+    <loc>https://yigexiaogai.github.io/2026/06/29/%E5%B0%8F%E8%AF%A5%E7%A2%8E%E7%A2%8E%E5%BF%B5260629/</loc>
     
     <lastmod>2026-06-29</lastmod>
     
@@ -290,24 +290,6 @@
   </url>
   
   <url>
-    <loc>https://yigexiaogai.github.io/link/index.html</loc>
-    
-    <lastmod>2023-01-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yigexiaogai.github.io/album/index.html</loc>
-    
-    <lastmod>2023-01-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://yigexiaogai.github.io/categories/index.html</loc>
     
     <lastmod>2023-01-21</lastmod>
@@ -317,7 +299,25 @@
   </url>
   
   <url>
+    <loc>https://yigexiaogai.github.io/link/index.html</loc>
+    
+    <lastmod>2023-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yigexiaogai.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yigexiaogai.github.io/album/index.html</loc>
     
     <lastmod>2023-01-21</lastmod>
     
