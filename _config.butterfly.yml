@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo: https://s2.loli.net/2023/04/19/sIcyiRCYxo4QXPl.png
+  logo: https://files.seeusercontent.com/2026/06/28/7hhC/IMG_0619.png
   display_title: true
   display_post_title: true
   # Whether to fix navigation bar
@@ -63,7 +63,7 @@ social:
 favicon: /img/favicon.png
 
 avatar: 
-  img: https://files.seeusercontent.com/2026/06/28/7hhC/IMG_0619.png
+  img: https://files.seeusercontent.com/2026/06/28/hlS6/avatar2.png
   effect: false
 
 # Disable all banner images
