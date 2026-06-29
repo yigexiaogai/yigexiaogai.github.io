@@ -117,3 +117,15 @@ markdown:
 aplayer:
   meting: true
   asset_inject: false
+
+# Security
+encrypt:
+  enable: true
+  abstract: 你想看这个？那你一定知道密码🥵.
+  message: 请输入密码.
+  theme: blink
+  wrong_pass_message: 看来你不知道，拜拜👋.
+
+  decryptButton:
+    show: true
+    text: 确认

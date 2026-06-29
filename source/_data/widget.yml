@@ -1,14 +1,14 @@
-top:
-  - class_name:
-    id_name:
-    name:
-    icon:
-    html:
+# top:
+#   - class_name:
+#     id_name:
+#     name:
+#     icon:
+#     html:
 
 bottom:
     - class_name: user-map
       id_name: user-map
-      name: 訪客地圖
+      name: 访客足迹
       icon: fas fa-heartbeat
       order:
-      html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5V2tOKp8qAdRM-i8eu7ETTO9ugt5uKbbG-U7Yj8uMl8"></script>'
+      html: <a href="https://info.flagcounter.com/4lFV"><img src="https://s01.flagcounter.com/countxl/4lFV/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_8/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
